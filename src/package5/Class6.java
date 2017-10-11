@@ -12,7 +12,7 @@ public class Class6 {
 		System.out.println("enter password");
 		String p=sc.nextLine();
 		
-
+//pull
 	}
 
 }
